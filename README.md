@@ -1,3 +1,7 @@
 # Homework-Portfolio
-Portfolio
-<img src="i\src\assets\img\launch\screen.png" width="800px" height="auto">
+
+This is the homework for portfolio of Ceyda Hergul
+
+[homework](https://chergul.github.io/Homework-Portfolio/)
+
+![Screenshot](./Homework-Portfolio/screen.png)
