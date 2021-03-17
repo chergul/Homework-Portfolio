@@ -8,4 +8,4 @@ This is the homework for portfolio of Ceyda Hergul
 
 ## Screenshot for the application
 
-![Screenshot](./Homework-Portfolio/screen.png)
+![Screenshot](screen.png)
