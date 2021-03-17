@@ -1,3 +1,3 @@
 # Homework-Portfolio
 Portfolio
-<img src="i\src\assets\img\launch\screen.png" width="800px" height="auto">
+<img src="https://github.com/chergul/Homework-Portfolio/blob/main/Screen.png" width="800px" height="auto">
