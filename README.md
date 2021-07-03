@@ -5,12 +5,12 @@
 ## Table of Contents 
 - [Contributing](#Contributing)
 - [Screenshot](#Screenshot)
-- [Link](#Link)
+- [Link for the repo](#Link-for-the-repo)
 - [Questions](#Questions)
 
  
 ## Contributing
- Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.Please make sure to update tests as appropriate. Also, don't forget the check my applications.
+ Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate. Also, don't forget the check my applications.
 
 ## Screenshot
 ![Screenshot](./Image/screen.png)
