@@ -13,7 +13,7 @@
  Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Also, don't forget the check my applications.
 
 ## Screenshot
-![Screenshot](screenshot.png)
+![Screenshot](./Image/screenshot.png)
 
 ## Link for the repo
 [Click here](https://chergul.github.io/Homework-Portfolio/)
