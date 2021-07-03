@@ -10,10 +10,10 @@
 
  
 ## Contributing
- Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate. Also, don't forget the check my applications.
+ Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Also, don't forget the check my applications.
 
 ## Screenshot
-![Screenshot](./Image/screen.png)
+![Screenshot](screen.png)
 
 ## Link for the repo
 [Click here](https://chergul.github.io/Homework-Portfolio/)
